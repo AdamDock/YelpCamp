@@ -1,11 +1,10 @@
 {
-  "name": "yelpcamp",
+  "name": "YelpCamp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -14,7 +13,6 @@
     "@mapbox/mapbox-sdk": "^0.11.0",
     "cloudinary": "^1.23.0",
     "connect-flash": "^0.1.1",
-    "connect-mongo": "^5.1.0",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.5",
     "ejs-mate": "^3.0.0",
